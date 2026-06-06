@@ -2,6 +2,8 @@
 
 Software for **Rocky**, an autonomous quadruped robot co-developed with Janne, a fellow student, as an independent robotics project.
 
+![Rocky Trotting](rocky_trot.gif)
+
 ## Repository Structure
 
 ### ROS2 Packages
